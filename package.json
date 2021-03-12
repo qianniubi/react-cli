@@ -34,7 +34,7 @@
     "px2rem-loader": "^0.1.9",
     "raf": "3.4.0",
     "react": "^16.10.1",
-    "react-dev-utils": "^9.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.10.1",
     "react-router-dom": "^5.1.2",
     "reset.less": "^1.0.5",
